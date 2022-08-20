@@ -25,7 +25,7 @@ body{
   height: 330px;
   border-radius: 10px 10px 0px 0px;
   object-fit: cover;
-  background: center;
+  /* background: center; */
 }
 
 .info-name{
