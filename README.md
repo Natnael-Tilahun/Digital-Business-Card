@@ -1,2 +1,2 @@
 # Digital-Business-Card
-This is a project from scrimba react course that built using react.
+This Digital Business Card project is a challenge from scrimba react course which is created from figma design using React.js.
