@@ -4,7 +4,7 @@
 
 body{
   margin: 0;
-  font-family: Inter;
+  font-family: 'Inter', sans-serif;
   height: 100vh;
   background: #23252C;
   padding: 1rem;
@@ -34,6 +34,7 @@ body{
   color: white;
   line-height: 1rem;
   padding-top: 1rem;
+  font-family: 'Inter', sans-serif;
 }
 
 .info-position{
@@ -84,9 +85,9 @@ body{
 }
 
 .about-header{
-font-size: 16px;
-font-weight: 700;
-line-height: 0px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 0px;
 }
 
 .about-content{
@@ -104,9 +105,9 @@ line-height: 0px;
 }
 
 .interest-header{
-font-size: 16px;
-font-weight: 700;
-line-height: 0px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 0px;
 }
 
 .interest-content{
