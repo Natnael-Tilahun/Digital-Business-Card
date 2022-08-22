@@ -4,7 +4,7 @@ import pic from '../assets/images/img.jpg'
 export default function Info(){
     return(
         <div className="info-div">
-            <img src="../assets/images/img.jpg" className="info-pic"/>
+            <img src={pic} className="info-pic"/>
             <h1 className="info-name">Natnael Tilahun</h1>
             <p className="info-position">Fullstack Developer</p>
             <p className="info-website">NhattyTech.com</p>
